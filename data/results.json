@@ -1,0 +1,356 @@
+[
+    {
+        "id": "r_69fe705c4d42e",
+        "matchday_id": "md_69fe70528c11e",
+        "score_home": 4,
+        "score_guest": 0,
+        "guest_team_id": "3hoj788rk",
+        "locked": true,
+        "scorers": [
+            "Oskar W",
+            "Oskar S",
+            "Jonas",
+            "Felix"
+        ],
+        "updated_at": 1778316874,
+        "pending_scorer": "",
+        "status": "done",
+        "home_team_id": "z491ze5ao",
+        "home_team_name": "MaTo Kicker",
+        "guest_team_name": "RSV Eintracht Stahnsdorf Weiß"
+    },
+    {
+        "id": "r_69fe707315150",
+        "matchday_id": "md_69fe70528c11e",
+        "score_home": 7,
+        "score_guest": 3,
+        "guest_team_id": "fz785y00w",
+        "locked": true,
+        "scorers": [
+            "Onno",
+            "Oskar W",
+            "Onno",
+            "Onno",
+            "Leopold",
+            "Jonas",
+            "Onno"
+        ],
+        "updated_at": 1778316874,
+        "status": "done",
+        "pending_scorer": "",
+        "home_team_id": "z491ze5ao",
+        "home_team_name": "MaTo Kicker",
+        "guest_team_name": "RasenBallsport Leipzig"
+    },
+    {
+        "id": "r_69fe708826663",
+        "matchday_id": "md_69fe70528c11e",
+        "score_home": 13,
+        "score_guest": 3,
+        "guest_team_id": "e85ofskin",
+        "locked": true,
+        "scorers": [
+            "Jonas",
+            "Felix",
+            "Felix",
+            "Onno",
+            "Oskar S",
+            "Oskar W",
+            "Oskar S",
+            "Onno",
+            "Oskar W",
+            "Oskar S",
+            "Oskar S",
+            "Felix",
+            "Finn"
+        ],
+        "updated_at": 1778318034,
+        "status": "done",
+        "pending_scorer": "",
+        "home_team_id": "z491ze5ao",
+        "home_team_name": "MaTo Kicker",
+        "guest_team_name": "Eintracht Leipzig Süd"
+    },
+    {
+        "id": "r_69fe709280e8b",
+        "matchday_id": "md_69fe70528c11e",
+        "score_home": 2,
+        "score_guest": 6,
+        "guest_team_id": "fqsmjl2of",
+        "locked": true,
+        "scorers": [
+            "Bastian",
+            "Bastian"
+        ],
+        "updated_at": 1778319788,
+        "status": "done",
+        "pending_scorer": "",
+        "home_team_id": "z491ze5ao",
+        "home_team_name": "MaTo Kicker",
+        "guest_team_name": "RSV Eintracht Stahnsdorf Blau"
+    },
+    {
+        "id": "r_69fe709d1fe00",
+        "matchday_id": "md_69fe70528c11e",
+        "score_home": 8,
+        "score_guest": 6,
+        "guest_team_id": "u9a0xin48",
+        "locked": true,
+        "scorers": [
+            "Jonas",
+            "Oskar S",
+            "Felix",
+            "Felix",
+            "Onno",
+            "Onno",
+            "Jonas",
+            "Oskar W"
+        ],
+        "updated_at": 1778321383,
+        "status": "done",
+        "pending_scorer": "",
+        "home_team_id": "z491ze5ao",
+        "home_team_name": "MaTo Kicker",
+        "guest_team_name": "TSV Rackwitz"
+    },
+    {
+        "id": "r_6a0dc6bcac414",
+        "matchday_id": "md_6a02e94c911d0",
+        "score_home": 2,
+        "score_guest": 2,
+        "guest_team_id": "k5vrkf6v6",
+        "status": "finished",
+        "locked": true,
+        "scorers": [
+            "__gast__",
+            "Max",
+            "Jonas",
+            "__gast__"
+        ],
+        "scorer_scores": [
+            "0:1",
+            "1:1",
+            "2:1",
+            "2:2"
+        ],
+        "started_at": 1779606970,
+        "ended_at": 1779607785,
+        "updated_at": 1779621724,
+        "field": "Feld 3",
+        "kickoff": "09:15",
+        "pending_scorer": "",
+        "home_team_id": "z491ze5ao",
+        "home_team_name": "MaTo Kicker",
+        "guest_team_name": "VfB Herzberg"
+    },
+    {
+        "id": "r_6a10236c53eb6",
+        "matchday_id": "md_6a02e94c911d0",
+        "score_home": 4,
+        "score_guest": 1,
+        "guest_team_id": "n1su03b1r",
+        "status": "finished",
+        "locked": true,
+        "scorers": [
+            "__gast__",
+            "Jonas",
+            "Norik",
+            "Onno",
+            "Jonas"
+        ],
+        "scorer_scores": [
+            "0:1",
+            "1:1",
+            "2:1",
+            "3:1",
+            "4:1"
+        ],
+        "started_at": 1779608859,
+        "ended_at": 1779610010,
+        "updated_at": 1779621724,
+        "field": "Feld 3",
+        "kickoff": "09:42",
+        "pending_scorer": "",
+        "home_team_id": "z491ze5ao",
+        "home_team_name": "MaTo Kicker",
+        "guest_team_name": "VfB Fortuna Chemnitz"
+    },
+    {
+        "id": "r_6a1023706e351",
+        "matchday_id": "md_6a02e94c911d0",
+        "score_home": 4,
+        "score_guest": 1,
+        "guest_team_id": "sttghufb0",
+        "status": "finished",
+        "locked": true,
+        "scorers": [
+            "Max",
+            "Oskar W",
+            "Onno",
+            "__gast__",
+            "Finn"
+        ],
+        "scorer_scores": [
+            "1:0",
+            "2:0",
+            "3:0",
+            "3:1",
+            "4:1"
+        ],
+        "started_at": 1779610657,
+        "ended_at": 1779611481,
+        "updated_at": 1779621724,
+        "field": "Feld 2",
+        "kickoff": "10:09",
+        "pending_scorer": "",
+        "home_team_id": "z491ze5ao",
+        "home_team_name": "MaTo Kicker",
+        "guest_team_name": "Olympia Leipzig rot"
+    },
+    {
+        "id": "r_6a1023da7c246",
+        "matchday_id": "md_6a02e94c911d0",
+        "score_home": 1,
+        "score_guest": 1,
+        "guest_team_id": "xmb5xdn8k",
+        "status": "finished",
+        "locked": true,
+        "scorers": [
+            "__gast__",
+            "Norik"
+        ],
+        "scorer_scores": [
+            "0:1",
+            "1:1"
+        ],
+        "started_at": 1779612501,
+        "ended_at": 1779613292,
+        "updated_at": 1779621724,
+        "field": "Feld 1",
+        "kickoff": "10:36",
+        "pending_scorer": "",
+        "home_team_id": "z491ze5ao",
+        "home_team_name": "MaTo Kicker",
+        "guest_team_name": "VfB Einheit Pankow"
+    },
+    {
+        "id": "r_6a1023dfbcbc5",
+        "matchday_id": "md_6a02e94c911d0",
+        "score_home": 4,
+        "score_guest": 0,
+        "guest_team_id": "s5heieizd",
+        "status": "finished",
+        "locked": true,
+        "scorers": [
+            "Liam",
+            "Mats",
+            "Max",
+            "Onno"
+        ],
+        "scorer_scores": [
+            "1:0",
+            "2:0",
+            "3:0",
+            "4:0"
+        ],
+        "started_at": 1779614351,
+        "ended_at": 1779615142,
+        "updated_at": 1779621724,
+        "field": "Feld 2",
+        "kickoff": "11:03",
+        "pending_scorer": "",
+        "home_team_id": "z491ze5ao",
+        "home_team_name": "MaTo Kicker",
+        "guest_team_name": "FC Erzgebirge Aue"
+    },
+    {
+        "id": "r_6a12c84386550",
+        "matchday_id": "md_6a02e94c911d0",
+        "score_home": 1,
+        "score_guest": 4,
+        "guest_team_id": "fz785y00w",
+        "status": "finished",
+        "locked": true,
+        "scorers": [
+            "__gast__",
+            "__gast__",
+            "__gast__",
+            "Max",
+            "__gast__"
+        ],
+        "scorer_scores": [
+            "0:1",
+            "0:2",
+            "0:3",
+            "1:3",
+            "1:4"
+        ],
+        "started_at": 1779616237,
+        "ended_at": 1779617031,
+        "field": "Feld 2",
+        "kickoff": "11:50",
+        "pending_scorer": "",
+        "updated_at": 1779621724,
+        "home_team_id": "z491ze5ao",
+        "home_team_name": "MaTo Kicker",
+        "guest_team_name": "RasenBallsport Leipzig"
+    },
+    {
+        "id": "r_6a12c8765e844",
+        "matchday_id": "md_6a02e94c911d0",
+        "score_home": 0,
+        "score_guest": 2,
+        "guest_team_id": "mighyl9m9",
+        "status": "finished",
+        "locked": true,
+        "scorers": [
+            "__gast__",
+            "__gast__"
+        ],
+        "scorer_scores": [
+            "0:1",
+            "0:2"
+        ],
+        "started_at": 1779619976,
+        "ended_at": 1779620780,
+        "field": "Feld 3",
+        "kickoff": "12:53",
+        "pending_scorer": "",
+        "updated_at": 1779621725,
+        "home_team_id": "z491ze5ao",
+        "home_team_name": "MaTo Kicker",
+        "guest_team_name": "SG Taucha"
+    },
+    {
+        "id": "r_6a12c8bfd0b76",
+        "matchday_id": "md_6a02e94c911d0",
+        "score_home": 4,
+        "score_guest": 1,
+        "guest_team_id": "rfb2ra22b",
+        "status": "finished",
+        "locked": true,
+        "scorers": [
+            "Finn",
+            "__gast__",
+            "Oskar S",
+            "Onno",
+            "Norik"
+        ],
+        "scorer_scores": [
+            "1:0",
+            "1:1",
+            "2:1",
+            "3:1",
+            "4:1"
+        ],
+        "started_at": 1779621859,
+        "ended_at": 1779622707,
+        "field": "Feld 1",
+        "kickoff": "13:30",
+        "updated_at": 1779622706,
+        "pending_scorer": "",
+        "home_team_id": "z491ze5ao",
+        "home_team_name": "MaTo Kicker",
+        "guest_team_name": "Post SV Dresden"
+    }
+]

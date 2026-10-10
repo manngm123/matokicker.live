@@ -1,0 +1,8 @@
+# MaTo Kicker – calendar.ics als Kalender-Feed bereitstellen.
+# Google/Apple akzeptieren Abo-URLs am zuverlässigsten, wenn sie auf .ics enden.
+# Diese Regel liefert unter /calendar.ics intern den Inhalt von calendar.php aus
+# (interne Umschreibung, kein Redirect – der Content-Type text/calendar bleibt).
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule ^calendar\.ics$ calendar.php [L]
+</IfModule>

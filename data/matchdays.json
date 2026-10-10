@@ -1,0 +1,452 @@
+[
+    {
+        "id": "md_69fe70528c11e",
+        "date": "2026-05-09",
+        "event": "Regionalspielrunde RB-Leipzig",
+        "team_ids": [
+            "fz785y00w",
+            "e85ofskin",
+            "u9a0xin48",
+            "fqsmjl2of",
+            "3hoj788rk"
+        ]
+    },
+    {
+        "id": "md_6a02e94c911d0",
+        "date": "2026-05-24",
+        "event": "Wackelturm Pokal",
+        "team_ids": [
+            "fz785y00w",
+            "s5heieizd",
+            "xmb5xdn8k",
+            "mighyl9m9",
+            "k5vrkf6v6",
+            "jdtibu2st",
+            "n1su03b1r",
+            "n8212o8u2",
+            "rfb2ra22b",
+            "02pazaa3l",
+            "sttghufb0"
+        ]
+    },
+    {
+        "id": "md_6a035167b7e0d",
+        "date": "2026-06-28",
+        "event": "Bennewitz",
+        "team_ids": [
+            "z491ze5ao",
+            "mighyl9m9",
+            "90qi9sz0u",
+            "bt6644ei2",
+            "2fzublfxf",
+            "4flc8ga3r"
+        ]
+    },
+    {
+        "id": "md_6a161a78d9b9a",
+        "date": "2026-05-30",
+        "event": "Regionalspielrunde Stötteritz",
+        "team_ids": [
+            "e85ofskin",
+            "1ndx9cmbx",
+            "bzvcxnf0e"
+        ]
+    },
+    {
+        "id": "md_6a23892e38c08",
+        "date": "2026-06-06",
+        "event": "Regionalspielrunde Olympia",
+        "team_ids": [
+            "02pazaa3l",
+            "1ndx9cmbx",
+            "oxivnluf1",
+            "9ho27xcwb"
+        ]
+    },
+    {
+        "id": "md_6a2e4e64f167f",
+        "date": "2026-06-14",
+        "event": "Regionalspielrunde Grimma",
+        "team_ids": [
+            "z491ze5ao",
+            "tfgn6jw1k",
+            "wjdqgz9f4",
+            "ips765tvb"
+        ]
+    },
+    {
+        "id": "md_6a36644b6a721",
+        "date": "2026-06-21",
+        "event": "RSR Endrunde",
+        "team_ids": [
+            "z491ze5ao",
+            "fz785y00w",
+            "e85ofskin",
+            "mighyl9m9",
+            "jdtibu2st",
+            "02pazaa3l",
+            "1ndx9cmbx",
+            "90qi9sz0u",
+            "tfgn6jw1k",
+            "d95g69r6t",
+            "3tn1a00hs",
+            "cz1brwxmk",
+            "69mb67pj3",
+            "i13nwclds",
+            "x3bc85fmh",
+            "o27a99j48",
+            "qjsor2mmn"
+        ]
+    },
+    {
+        "id": "md_6a49499d5d302",
+        "date": "2026-07-05",
+        "event": "YOUNG TALENTZ Mini WM",
+        "team_ids": [
+            "fv2mowohm",
+            "bv8mu96uu",
+            "3a1t31fu2",
+            "k2pbbyyk8",
+            "sqrjxxfbl",
+            "oxhorr5y0",
+            "ppgfli9en",
+            "liij5wu1w",
+            "1zaf1php8",
+            "xok7v8nmr"
+        ],
+        "schedule_url": "https:\/\/young-talentz.de\/miniwm\/ejunioren\/live#vorrunde"
+    },
+    {
+        "id": "md_6a7601a4df7eb",
+        "date": "2026-08-30",
+        "event": "1. Spieltag - 09:00 - SG Taucha",
+        "team_ids": [
+            "z491ze5ao",
+            "mighyl9m9"
+        ],
+        "schedule_url": "",
+        "home_team_id": "0int3ng7v",
+        "type": "spieltag",
+        "updated_at": 1790524024
+    },
+    {
+        "id": "md_6a76029d7d1aa",
+        "date": "2026-09-12",
+        "time": "11:00",
+        "event": "3. Spieltag - 11:00 - SG Olympia 1896 Leipzig II",
+        "team_ids": [
+            "z491ze5ao",
+            "fdtydeqib"
+        ],
+        "schedule_url": "",
+        "half_length": 30,
+        "home_team_id": "0int3ng7v",
+        "type": "spieltag",
+        "updated_at": 1790524024
+    },
+    {
+        "id": "md_6a76048b4c1a0",
+        "date": "2026-09-05",
+        "event": "2. Spieltag - 10:30 - SG Motor Gohlis-Nord I",
+        "team_ids": [
+            "z491ze5ao",
+            "5oobpqf7z"
+        ],
+        "schedule_url": "",
+        "home_team_id": "0int3ng7v",
+        "type": "spieltag",
+        "updated_at": 1790524024
+    },
+    {
+        "id": "md_6a7605dc8f052",
+        "date": "2026-09-26",
+        "time": "09:00",
+        "event": "5. Spieltag - 09:00 - SG Rotation Leipzig II",
+        "team_ids": [
+            "z491ze5ao",
+            "yidonkbig"
+        ],
+        "schedule_url": "",
+        "half_length": 30,
+        "squads": {
+            "z491ze5ao": [
+                "t7hm3vka4",
+                "3jvr7xadi",
+                "fdk10seqn",
+                "i0unnlh3r",
+                "syw7lp3y0",
+                "y0upbkbl1",
+                "egdw0t35v",
+                "7aaufqrvw",
+                "hdfdmgnzn",
+                "xnby0mrpk"
+            ]
+        },
+        "reporter": {
+            "token": "05da9089596a7d5498abaacdf78b122b",
+            "created_at": 1790389908
+        },
+        "home_team_id": "0int3ng7v",
+        "type": "spieltag",
+        "updated_at": 1790524024
+    },
+    {
+        "id": "md_6a760664a7de3",
+        "date": "2026-11-01",
+        "time": "",
+        "type": "spieltag",
+        "home_team_id": "0int3ng7v",
+        "event": "6. Spieltag - 09:00 - SV Einheit Lindenthal I",
+        "team_ids": [
+            "0int3ng7v",
+            "eoj7yp4da"
+        ],
+        "schedule_url": "",
+        "half_length": 30,
+        "squads": {
+            "0int3ng7v": [
+                "t7hm3vka4",
+                "3jvr7xadi",
+                "fdk10seqn",
+                "i0unnlh3r",
+                "46kuf6xb4",
+                "syw7lp3y0",
+                "xnby0mrpk",
+                "y0upbkbl1",
+                "egdw0t35v",
+                "7aaufqrvw",
+                "ptielt7kk",
+                "m3e9n9kw2",
+                "hdfdmgnzn"
+            ]
+        },
+        "updated_at": 1790523148
+    },
+    {
+        "id": "md_6a7606d061604",
+        "date": "2026-11-07",
+        "time": "",
+        "type": "spieltag",
+        "home_team_id": "0int3ng7v",
+        "event": "7. Spieltag - 09:00 - SV Lipsia 93 Eutritzsch I",
+        "team_ids": [
+            "0int3ng7v",
+            "lftmr3ohc"
+        ],
+        "schedule_url": "",
+        "half_length": 30,
+        "squads": {
+            "0int3ng7v": [
+                "t7hm3vka4",
+                "3jvr7xadi",
+                "fdk10seqn",
+                "i0unnlh3r",
+                "46kuf6xb4",
+                "syw7lp3y0",
+                "xnby0mrpk",
+                "y0upbkbl1",
+                "egdw0t35v",
+                "7aaufqrvw",
+                "ptielt7kk",
+                "m3e9n9kw2",
+                "hdfdmgnzn"
+            ]
+        },
+        "updated_at": 1790523159
+    },
+    {
+        "id": "md_6a76073b0e704",
+        "date": "2026-11-21",
+        "time": "",
+        "type": "spieltag",
+        "home_team_id": "0int3ng7v",
+        "event": "8. Spieltag - 11:00 - FC Blau-Weiß Leipzig I (U13)",
+        "team_ids": [
+            "0int3ng7v",
+            "6am6m5nmf"
+        ],
+        "schedule_url": "",
+        "half_length": 30,
+        "squads": {
+            "0int3ng7v": [
+                "t7hm3vka4",
+                "3jvr7xadi",
+                "fdk10seqn",
+                "i0unnlh3r",
+                "46kuf6xb4",
+                "syw7lp3y0",
+                "xnby0mrpk",
+                "y0upbkbl1",
+                "egdw0t35v",
+                "7aaufqrvw",
+                "ptielt7kk",
+                "m3e9n9kw2",
+                "hdfdmgnzn"
+            ]
+        },
+        "updated_at": 1790523172
+    },
+    {
+        "id": "md_6a761e7b7d01a",
+        "date": "2026-08-16",
+        "time": "09:00",
+        "event": "Leistungsvergleich - 09:00 bei Olympia",
+        "team_ids": [
+            "z491ze5ao",
+            "iz49k2xv8",
+            "pe77dhx44"
+        ],
+        "schedule_url": "",
+        "home_team_id": "0int3ng7v",
+        "type": "freundschaft",
+        "updated_at": 1790524024
+    },
+    {
+        "id": "md_6a894584df88e",
+        "date": "2026-08-22",
+        "time": "10:30",
+        "event": "D2 Pokalrunde",
+        "team_ids": [
+            "z491ze5ao",
+            "wayd9ge9f"
+        ],
+        "schedule_url": "",
+        "home_team_id": "ppk4nmfz0",
+        "type": "pokal",
+        "updated_at": 1790524024
+    },
+    {
+        "id": "md_6a91dfb14a25d",
+        "date": "2026-08-29",
+        "time": "09:00",
+        "event": "1. Spieltag - 09:00 - SV Althen (C Jugend)",
+        "team_ids": [
+            "z491ze5ao",
+            "qhbhz5900"
+        ],
+        "schedule_url": "",
+        "half_length": 30,
+        "home_team_id": "i3eynbcdi",
+        "type": "spieltag",
+        "updated_at": 1790524024
+    },
+    {
+        "id": "md_6aa1915decb53",
+        "date": "2026-09-10",
+        "time": "17:30",
+        "event": "Kreispokal Plaußiger SV",
+        "team_ids": [
+            "z491ze5ao",
+            "ebbd0sgs7"
+        ],
+        "schedule_url": "",
+        "half_length": 30,
+        "home_team_id": "0int3ng7v",
+        "type": "pokal",
+        "updated_at": 1790524024
+    },
+    {
+        "id": "md_6aab5283f3e3c",
+        "date": "2026-09-24",
+        "time": "17:30",
+        "event": "Kreispokal SV Lok Engelsdorf II",
+        "team_ids": [
+            "z491ze5ao",
+            "5rgjzghi3"
+        ],
+        "schedule_url": "",
+        "half_length": 30,
+        "home_team_id": "0int3ng7v",
+        "type": "pokal",
+        "updated_at": 1790524024
+    },
+    {
+        "id": "md_6aab55ac695b3",
+        "date": "2026-09-19",
+        "time": "10:30",
+        "event": "4. Spieltag - SG Motor Gohlis-Nord Il (C-Jugend)",
+        "team_ids": [
+            "z491ze5ao",
+            "d69d5ajw4"
+        ],
+        "schedule_url": "",
+        "half_length": 35,
+        "home_team_id": "i3eynbcdi",
+        "type": "spieltag",
+        "updated_at": 1790524024
+    },
+    {
+        "id": "md_6aab5714e4044",
+        "date": "2026-09-20",
+        "time": "11:00",
+        "event": "4. Spieltag - SpVgg Leipzig 1899 III",
+        "team_ids": [
+            "ppk4nmfz0",
+            "ow6caxp8y"
+        ],
+        "schedule_url": "",
+        "half_length": 30
+    },
+    {
+        "id": "md_6ab6ff863c349",
+        "date": "2026-09-27",
+        "time": "10:30",
+        "event": "5. Spieltag - TSV Böhlitz-Ehrenberg",
+        "team_ids": [
+            "ppk4nmfz0",
+            "wayd9ge9f"
+        ],
+        "schedule_url": "",
+        "half_length": 30,
+        "squads": {
+            "ppk4nmfz0": [
+                "jtwr39bhg",
+                "tquoy234x",
+                "k55cbzb9n",
+                "7l4a378bz",
+                "rim223gjv",
+                "kl09zvztw",
+                "c09dq0yrk",
+                "ut83xdu2q",
+                "84t9ogknr",
+                "9tlu56u57",
+                "s75yd33ju",
+                "rzchb8275",
+                "m3e9n9kw2"
+            ]
+        }
+    },
+    {
+        "id": "md_6ab701eb07a4b",
+        "date": "2026-10-04",
+        "time": "13:00",
+        "event": "Kreispokal - SSV Markranstädt",
+        "team_ids": [
+            "0int3ng7v",
+            "jdtibu2st"
+        ],
+        "schedule_url": "",
+        "half_length": 30,
+        "squads": {
+            "0int3ng7v": [
+                "t7hm3vka4",
+                "3jvr7xadi",
+                "fdk10seqn",
+                "i0unnlh3r",
+                "46kuf6xb4",
+                "syw7lp3y0",
+                "xnby0mrpk",
+                "y0upbkbl1",
+                "egdw0t35v",
+                "7aaufqrvw",
+                "ptielt7kk",
+                "m3e9n9kw2",
+                "hdfdmgnzn"
+            ]
+        },
+        "reporter": {
+            "token": "86cce828530573d59a84fab86e5519d1",
+            "created_at": 1790866528
+        }
+    }
+]

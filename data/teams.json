@@ -1,0 +1,282 @@
+[
+    {
+        "id": "69mb67pj3",
+        "name": "Bornaer SV",
+        "is_home": false
+    },
+    {
+        "id": "d95g69r6t",
+        "name": "BSG Chemie Leipzig",
+        "is_home": false
+    },
+    {
+        "id": "h98xztfeb",
+        "name": "BSG Chemie Leipzig 2",
+        "is_home": false
+    },
+    {
+        "id": "i13nwclds",
+        "name": "Döbelner SC",
+        "is_home": false
+    },
+    {
+        "id": "e85ofskin",
+        "name": "Eintracht Leipzig Süd",
+        "is_home": false
+    },
+    {
+        "id": "o27a99j48",
+        "name": "FC Blau-Weiß Leipzig",
+        "is_home": false
+    },
+    {
+        "id": "6am6m5nmf",
+        "name": "FC Blau-Weiß Leipzig I (U13)",
+        "is_home": false
+    },
+    {
+        "id": "x3bc85fmh",
+        "name": "FC Eilenburg",
+        "is_home": false
+    },
+    {
+        "id": "s5heieizd",
+        "name": "FC Erzgebirge Aue",
+        "is_home": false
+    },
+    {
+        "id": "tfgn6jw1k",
+        "name": "FC Grimma",
+        "is_home": false
+    },
+    {
+        "id": "ips765tvb",
+        "name": "FC Grimma 2",
+        "is_home": false
+    },
+    {
+        "id": "n8212o8u2",
+        "name": "FC Grün-Weiß Piesteritz",
+        "is_home": false
+    },
+    {
+        "id": "qjsor2mmn",
+        "name": "Kickers Markkleeberg",
+        "is_home": false
+    },
+    {
+        "id": "5k1bbyq6y",
+        "name": "Kuddelmuddel",
+        "is_home": false
+    },
+    {
+        "id": "3tn1a00hs",
+        "name": "Lokomotive Leipzig",
+        "is_home": false
+    },
+    {
+        "id": "9ho27xcwb",
+        "name": "MaTo blau",
+        "is_home": false
+    },
+    {
+        "id": "z491ze5ao",
+        "name": "MaTo Kicker",
+        "is_home": true
+    },
+    {
+        "id": "i3eynbcdi",
+        "name": "MaTo Kicker (C1)",
+        "is_home": true
+    },
+    {
+        "id": "0int3ng7v",
+        "name": "MaTo Kicker (D1)",
+        "is_home": true
+    },
+    {
+        "id": "ppk4nmfz0",
+        "name": "MaTo Kicker (D2)",
+        "is_home": true
+    },
+    {
+        "id": "oxivnluf1",
+        "name": "MaTo rot",
+        "is_home": false
+    },
+    {
+        "id": "sttghufb0",
+        "name": "Olympia Leipzig rot",
+        "is_home": false
+    },
+    {
+        "id": "02pazaa3l",
+        "name": "Olympia Leipzig weiß",
+        "is_home": false
+    },
+    {
+        "id": "ebbd0sgs7",
+        "name": "Plaußiger SV",
+        "is_home": false
+    },
+    {
+        "id": "rfb2ra22b",
+        "name": "Post SV Dresden",
+        "is_home": false
+    },
+    {
+        "id": "fz785y00w",
+        "name": "RasenBallsport Leipzig",
+        "is_home": false
+    },
+    {
+        "id": "gyxo28de9",
+        "name": "RasenBallsport Leipzig U13w",
+        "is_home": false
+    },
+    {
+        "id": "pe77dhx44",
+        "name": "Roter Stern Leipzig",
+        "is_home": false
+    },
+    {
+        "id": "fqsmjl2of",
+        "name": "RSV Eintracht Stahnsdorf Blau",
+        "is_home": false
+    },
+    {
+        "id": "3hoj788rk",
+        "name": "RSV Eintracht Stahnsdorf Weiß",
+        "is_home": false
+    },
+    {
+        "id": "5oobpqf7z",
+        "name": "SG Motor Gohlis-Nord I",
+        "is_home": false
+    },
+    {
+        "id": "d69d5ajw4",
+        "name": "SG Motor Gohlis-Nord Il",
+        "is_home": false
+    },
+    {
+        "id": "iz49k2xv8",
+        "name": "SG Olympia 1896 Leipzig",
+        "is_home": false
+    },
+    {
+        "id": "fdtydeqib",
+        "name": "SG Olympia 1896 Leipzig II",
+        "is_home": false
+    },
+    {
+        "id": "wjdqgz9f4",
+        "name": "SG Rotation Leipzig",
+        "is_home": false
+    },
+    {
+        "id": "yidonkbig",
+        "name": "SG Rotation Leipzig II",
+        "is_home": false
+    },
+    {
+        "id": "mighyl9m9",
+        "name": "SG Taucha",
+        "is_home": false
+    },
+    {
+        "id": "cz1brwxmk",
+        "name": "SG Taucha 2",
+        "is_home": false
+    },
+    {
+        "id": "ow6caxp8y",
+        "name": "SpVgg Leipzig 1899 III",
+        "is_home": false
+    },
+    {
+        "id": "jdtibu2st",
+        "name": "SSV Markranstädt",
+        "is_home": false
+    },
+    {
+        "id": "1ndx9cmbx",
+        "name": "SSV Stötteritz 1",
+        "is_home": false
+    },
+    {
+        "id": "bzvcxnf0e",
+        "name": "SSV Stötteritz 2",
+        "is_home": false
+    },
+    {
+        "id": "2fzublfxf",
+        "name": "SV 1900 Flößberg",
+        "is_home": false
+    },
+    {
+        "id": "qhbhz5900",
+        "name": "SV Althen",
+        "is_home": false
+    },
+    {
+        "id": "4flc8ga3r",
+        "name": "SV Blau-Weiß Bennewitz",
+        "is_home": false
+    },
+    {
+        "id": "eoj7yp4da",
+        "name": "SV Einheit Lindenthal I",
+        "is_home": false
+    },
+    {
+        "id": "lftmr3ohc",
+        "name": "SV Lipsia 93 Eutritzsch I",
+        "is_home": false
+    },
+    {
+        "id": "5rgjzghi3",
+        "name": "SV Lok Engelsdorf II",
+        "is_home": false
+    },
+    {
+        "id": "8c2k5smx3",
+        "name": "SV Mügeln-Ablaß",
+        "is_home": false
+    },
+    {
+        "id": "90qi9sz0u",
+        "name": "SV Tresenwald",
+        "is_home": false
+    },
+    {
+        "id": "wayd9ge9f",
+        "name": "TSV Böhlitz-Ehrenberg",
+        "is_home": false
+    },
+    {
+        "id": "u9a0xin48",
+        "name": "TSV Rackwitz",
+        "is_home": false
+    },
+    {
+        "id": "bt6644ei2",
+        "name": "TSV Röcknitz 1953",
+        "is_home": false
+    },
+    {
+        "id": "xmb5xdn8k",
+        "name": "VfB Einheit Pankow",
+        "is_home": false
+    },
+    {
+        "id": "n1su03b1r",
+        "name": "VfB Fortuna Chemnitz",
+        "is_home": false
+    },
+    {
+        "id": "k5vrkf6v6",
+        "name": "VfB Herzberg",
+        "is_home": false
+    }
+]
